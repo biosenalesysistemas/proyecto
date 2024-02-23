@@ -13,9 +13,9 @@ John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga <
 # Seguimiento 1
 
 ## Objetivos
--Aprender a usar Python para la manipulación y visualización básica de señales
--Programar operaciones matemáticas sobres señales
--Hacer comparaciones e inferencias sobre conjuntos de datos
+  * Aprender a usar Python para la manipulación y visualización básica de señales
+  * Programar operaciones matemáticas sobres señales
+  * Hacer comparaciones e inferencias sobre conjuntos de datos
 
 ## Enunciado
 
@@ -30,14 +30,22 @@ Cada archivo consta de 10 columnas:
   2-9) Canal: ocho canales EMG del brazalete MYO Thalmic
   10) Clase – la etiqueta de los gestos:
     0 - datos no marcados,
+      
     1 - mano en reposo,
+    
     2 - mano cerrada en un puño,
+    
     3 - flexión de muñeca,
+    
     4 - extensión de muñeca,
+    
     5 - desviaciones radiales,
+    
     6 - desviaciones cubitales,
+    
     7 - palma extendida (el gesto no fue realizado por todos los sujetos).
 
 ### Aspectos generales dela señal 
   - Los datos fueron tomados con una frecuencia de muestre fs =
+  - 
   - 
