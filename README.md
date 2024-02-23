@@ -1,10 +1,12 @@
 <p><img alt="udeA logo" height="150px" src="https://github.com/freddyduitama/images/blob/master/logo.png?raw=true" align="left" hspace="50px" vspace="0px" style="width:107px;height:152px;"></p>
 <h1><font color='0B5345'> <center>
-Proyecto Bioseñales y Sistemas - Universidad de Antioquia 2024</center></font></h1>
+Bioseñales y Sistemas - Universidad de Antioquia</center></font></h1>
 <h2><font color='0B5345'> <center>
 Proyecto 2024</center></font></h2>
 <h3><font color='0B5345'> <center>
 John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga </center></font></h3>
+<h4><font color='0B5345'> <center>
+2024 </center></font></h4>
 <font  face="Courier New" size="3">
 <p1><center> </center></p1>
  
@@ -14,7 +16,7 @@ John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga <
 </font>
 
 
-# Proyecto Bioseñales y Sistemas - Universidad de Antioquia 2024
+# Proyecto Bioseñales y Sistemas
 
 En este proyecto se analizarán señales de  Electromiografía (EMG). Estas señales hacen parte de un dataset que contiene electromiografía de sujetos que realizaban series de gestos estáticos con las manos. Se adquirieron las señales de 36 participantes, estos realizarón dos series, cada una de las cuales consta de seis (siete) gestos básicos. Cada gesto se realizó durante 3 segundos con una pausa de 3 segundos entre gestos.
 
