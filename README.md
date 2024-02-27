@@ -29,18 +29,17 @@ Este proyecto se analizará en cuatro fases:
 
 1. **Análisis exploratorio de las señales EMG**
 
-   - Extracción de métricaas
+   - Extracción de métricas
    - Implementación de estádistica descriptiva e inferencial
    - Revisión artículo base 
 
 2. **Manipulación de señales en el dominio del tiempo y la frecuencia**
 
-    - Extracción del método directo de las señales EMG
+    -  Técnicas de estimación espectral en EMG
 
 3. **Procesamiento de las señales EMG**
 
     - Filtros lineales 
-    - Técnicas de estimación espectral en EMG
     - Transformada de Hilbert
 
 4. **Aplicación de Inteligencia artificial a datos de EMG**
