@@ -55,13 +55,13 @@ Cada archivo consta de 10 columnas:
    ![image](https://github.com/biosenalesysistemas/proyecto/assets/157903370/6da85b8a-aa90-446a-aa53-5eab5d5a1a83)
 2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO
 3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características:
-  -  RMS
-  -  Varianza
-  -  Mean Absolute Value
-  -  Mean Absolute Value Slope
-  -  Slope Sign Changes
-  -  Wave form length
-  -  Zero Crossing
+   -  RMS
+   -  Varianza
+   -  Mean Absolute Value
+   -  Mean Absolute Value Slope
+   -  Slope Sign Changes
+   -  Wave form length
+   -  Zero Crossing
 4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3
 5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales
 6. Comparar las métricas con y sin operador TKEO a partir de estádistica inferencial
