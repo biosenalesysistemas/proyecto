@@ -48,4 +48,27 @@ Cada archivo consta de 10 columnas:
 ### Aspectos generales dela señal 
   - Los datos fueron tomados con una frecuencia de muestre fs =
   - 
-  - 
+
+### Medidas 
+
+1. Crear una función que reciba la señal de EMG y permita aplicar el operador Teager-Kaiser Energy Operator (TKEO)
+   ![image](https://github.com/biosenalesysistemas/proyecto/assets/157903370/6da85b8a-aa90-446a-aa53-5eab5d5a1a83)
+2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO
+3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características:
+  -  RMS
+  -  Varianza
+  -  Mean Absolute Value
+  -  Mean Absolute Value Slope
+  -  Slope Sign Changes
+  -  Wave form length
+  -  Zero Crossing
+4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3
+5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales
+6. Comparar las métricas con y sin operador TKEO a partir de estádistica inferencial
+7.
+
+## Referencias
+
+Solnik S, Rider P, Steinweg K, DeVita P, Hortobágyi T. Teager-Kaiser energy operator signal conditioning improves EMG onset detection. Eur J Appl Physiol. 2010 Oct;110(3):489-98. doi: 10.1007/s00421-010-1521-8. Epub 2010 Jun 5. PMID: 20526612; PMCID: PMC2945630.
+
+
