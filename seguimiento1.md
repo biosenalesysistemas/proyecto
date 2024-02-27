@@ -15,6 +15,7 @@ John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga <
 ## Objetivos
   * Aprender a usar Python para la manipulación y visualización básica de señales
   * Programar operaciones matemáticas sobres señales
+  * Conocer el efecto de transformaciones sobre las señales en la obtención de índices relevantes en tareas de clasificación
   * Hacer comparaciones e inferencias sobre conjuntos de datos
 
 ## Enunciado
@@ -53,8 +54,8 @@ Cada archivo consta de 10 columnas:
 
 1. Crear una función que reciba la señal de EMG y permita aplicar el operador Teager-Kaiser Energy Operator (TKEO)
    ![image](https://github.com/biosenalesysistemas/proyecto/assets/157903370/6da85b8a-aa90-446a-aa53-5eab5d5a1a83)
-2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO
-3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características:
+2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO para cada canal
+3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características para cada canal:
    -  RMS
    -  Varianza
    -  Mean Absolute Value
