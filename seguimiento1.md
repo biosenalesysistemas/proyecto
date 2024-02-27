@@ -65,7 +65,8 @@ Cada archivo consta de 10 columnas:
 4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3 
 5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales
 6. El ítem 4 y 5 almacene en un dataframe, en donde haya una columna que discrimine si las caracteristicas proviene de una señal con TKEO o sin TKEO.
-7. Comparar las métricas con y sin operador TKEO a partir de estádistica inferencial
+7. Discusión de las diferencias en los grupos usando las gráficas obtenidas usando estádistica descriptiva. Seleccione el tipo de representación que mejor le permita describir la información.
+8. Plantear la hipótesis nulas y alternativas, selección del tipo de prueba (Paramétrica o no paramétrica) y discusión de los resultados.
  
 
 ## Referencias
