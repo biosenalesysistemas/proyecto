@@ -61,11 +61,29 @@ Ver más información del dataset aquí: https://www.kaggle.com/datasets/sojanpr
    -  Slope Sign Changes
    -  Wave form length
    -  Zero Crossing
-4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3 (10 %)
-5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales (10 %)
-6. El ítem 4 y 5 almacene en un dataframe, en donde haya una columna que discrimine si las caracteristicas proviene de una señal con TKEO o sin TKEO. (10 %)
-7. Discusión de las diferencias en los grupos usando las gráficas obtenidas usando estádistica descriptiva. Seleccione el tipo de representación que mejor le permita describir la información. (20 %)
-8. Plantear la hipótesis nulas y alternativas, selección del tipo de prueba (Paramétrica o no paramétrica) y discusión de los resultados. (20 %)
+4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3 (5 %)
+5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales (5 %)
+6. Almanecene las métricas obtenidas en el ítem 4 y 5 en un dataframe, en donde haya una columna que discrimine si las caracteristicas proviene de una señal con TKEO o sin TKEO. (10 %)
+7. Realice un análisis exploratorio de los datos (Estadística descriptiva) teniendo como base la teoría vista en clase (Diagramas de cajas, gráficos, medidas de tendencia central) (10 % )
+
+### Informe
+Entregar un informe en un Notebook que contenga la siguiente información: 
+
+a.Hacer un breve resumen sobre la electromiografía y las características de esta señal. (5 %)
+
+b.Hacer una breve descripción del operador de TKEO, que información entrega y como se interpreta con los datos entregados (5%).
+
+c.Discusión  de  las  diferencias  en  los  grupos  usando  las  gráficas  obtenidas. Seleccione el   tipo   de representación que mejor le permita describir la información (10%)
+
+d.Planteamiento de las hipótesis nulas y alternativas (5%), selección del tipo de prueba (paramétrica o no paramétrica) (5%) y discusión de los resultados (10%).
+
+e.El informe debe tener conclusiones de todos los análisis realizados, sin el apartado de conclusiones no se revisa.
+
+### Observaciones 
+•Se  recomienda  guardar  los  cálculos  intermedios  que  se  vayan  realizando  sobre  los datos
+•Los  cálculos  deben  estar optimizados  siguiendo  el  esquema  vectorial  del  numpy (evitar for innecesarios)
+•La nota del trabajo se define en la sustentación. Trabajo sin sustentación tiene como nota final 0.
+•Tenga en cuenta, que cada media hora de retraso en la entrega penalizará con un 0.5 de la respectiva nota.
  
 
 ## Referencias
