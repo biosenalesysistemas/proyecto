@@ -67,7 +67,7 @@ Ver más información del dataset aquí: https://www.kaggle.com/datasets/sojanpr
 7. Realice un análisis exploratorio de los datos (Estadística descriptiva) teniendo como base la teoría vista en clase (Diagramas de cajas, gráficos, medidas de tendencia central) (10 % )
 
 ### Informe
-Entregar un informe en un Notebook que contenga la siguiente información: 
+Entregar un informe en un Notebook que contenga las funciones diseñadas y la siguiente información: 
 
 a. Hacer un breve resumen sobre la electromiografía y las características de esta señal. (5 %)
 
