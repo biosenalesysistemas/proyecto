@@ -46,9 +46,7 @@ Cada archivo consta de 10 columnas:
     
     7 - palma extendida (el gesto no fue realizado por todos los sujetos).
 
-### Aspectos generales dela señal 
-  - Los datos fueron tomados con una frecuencia de muestre fs =
-  - 
+Ver más información del dataset aquí: https://www.kaggle.com/datasets/sojanprajapati/emg-signal-for-gesture-recognition
 
 ### Medidas 
 
