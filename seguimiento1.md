@@ -50,10 +50,10 @@ Ver más información del dataset aquí: https://www.kaggle.com/datasets/sojanpr
 
 ### Medidas 
 
-1. Crear una función que reciba la señal de EMG y permita aplicar el operador Teager-Kaiser Energy Operator (TKEO)
+1. Crear una función que reciba la señal de EMG y permita aplicar el operador Teager-Kaiser Energy Operator (TKEO). (10 %)
    ![image](https://github.com/biosenalesysistemas/proyecto/assets/157903370/6da85b8a-aa90-446a-aa53-5eab5d5a1a83)
-2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO para cada canal
-3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características para cada canal:
+2. Crear una función que reciba una señal EMG de múltiples canales y calcule el operador TKEO para cada canal. (10 %)
+3. Crear una función que reciba una señal EMG de múltiples canales que extraiga las siguientes características para cada canal (10 %):
    -  RMS
    -  Varianza
    -  Mean Absolute Value
@@ -61,11 +61,11 @@ Ver más información del dataset aquí: https://www.kaggle.com/datasets/sojanpr
    -  Slope Sign Changes
    -  Wave form length
    -  Zero Crossing
-4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3 
-5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales
-6. El ítem 4 y 5 almacene en un dataframe, en donde haya una columna que discrimine si las caracteristicas proviene de una señal con TKEO o sin TKEO.
-7. Discusión de las diferencias en los grupos usando las gráficas obtenidas usando estádistica descriptiva. Seleccione el tipo de representación que mejor le permita describir la información.
-8. Plantear la hipótesis nulas y alternativas, selección del tipo de prueba (Paramétrica o no paramétrica) y discusión de los resultados.
+4. Crear una rutina que aplique sobre todo los archivos de la base de datos las funciones descritas en 2 y 3 (10 %)
+5. Crear una rutina que aplique sobre todo los archivos de la base de datos las función 3 sobre las señales originales (10 %)
+6. El ítem 4 y 5 almacene en un dataframe, en donde haya una columna que discrimine si las caracteristicas proviene de una señal con TKEO o sin TKEO. (10 %)
+7. Discusión de las diferencias en los grupos usando las gráficas obtenidas usando estádistica descriptiva. Seleccione el tipo de representación que mejor le permita describir la información. (20 %)
+8. Plantear la hipótesis nulas y alternativas, selección del tipo de prueba (Paramétrica o no paramétrica) y discusión de los resultados. (20 %)
  
 
 ## Referencias
