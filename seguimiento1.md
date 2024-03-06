@@ -85,6 +85,8 @@ e. El informe debe tener conclusiones de todos los análisis realizados, sin el 
 * La nota del trabajo se define en la sustentación. Trabajo sin sustentación tiene como nota final 0.
 * Tenga en cuenta, que cada media hora de retraso en la entrega penalizará con un 0.5 de la respectiva nota.
  
+## Sugerencias
+* Leer la descripción del README.md de la base de datos para entender la distribucción. Recomendación, elija una de las series de tiempo para analizar en todos los sujetos y reporte su criterio de selección.
 
 ## Referencias
 
