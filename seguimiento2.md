@@ -32,12 +32,20 @@ Proponer cual sería la mejor ubicación del electrodo para capturar el movimien
 Definir un protocolo de registro que tenga en cuenta: población de estudio, montaje de los electrodos, tipo de ejercicio a realizar durante el registro y forma de onda esperada para el tipo de ejercicio, duración del registro (15%). 
 Aplicar el protocolo de registro en 10 sujetos y almacenar los datos en computadora usando PySerial (15%)
 
-4 Aplicar los métodos de análisis del proyecto 1 y presentar el Análisis Exploratorio de los datos obtenidos en el punto 3 (20%)
+## 4. Corrección seguimiento 1 y análisis exploratorio 
 
-5. Realizar un informe que incluya el desarrollo de todos los puntos desarrollados con su respectivo análisis. Discutir los resultados a la luz de lo obtenido en el proyecto 1 (20%)
+Aplicar los métodos de análisis del seguimiento 1 y presentar el Análisis Exploratorio de los datos obtenidos en el punto 3 (20%)
+
+## 5. Presentación de informe , discusión y conclusiones
+
+Realizar un informe que incluya el desarrollo de todos los puntos desarrollados con su respectivo análisis. Discutir los resultados a la luz de lo obtenido en el proyecto 1 (20%)
 
 
 ## Fase 3: Análisis en tiempo real
 Consulta sobre posibilidades de procesamiento de los datos en sistemas embebidos (10%)
 
-
+### Observaciones 
+* Se  recomienda  guardar  los  cálculos  intermedios  que  se  vayan  realizando  sobre  los datos
+* Los  cálculos  deben  estar optimizados  siguiendo  el  esquema  vectorial  del  numpy (evitar for innecesarios)
+* La nota del trabajo se define en la sustentación. Trabajo sin sustentación tiene como nota final 0.
+* Tenga en cuenta, que cada media hora de retraso en la entrega penalizará con un 0.5 de la respectiva nota.
