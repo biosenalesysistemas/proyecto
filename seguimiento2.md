@@ -46,6 +46,8 @@ Consulta sobre posibilidades de procesamiento de los datos en sistemas embebidos
 
 ### Observaciones 
 * Se  recomienda  guardar  los  cálculos  intermedios  que  se  vayan  realizando  sobre  los datos
+* Almacene los datos recolectados y guardelos de forma comprimida para subir al repositorio
+* Tenga en cuenta todos los aspectos de calidad y trate de minimizar el error en la toma de datos
 * Los  cálculos  deben  estar optimizados  siguiendo  el  esquema  vectorial  del  numpy (evitar for innecesarios)
 * La nota del trabajo se define en la sustentación. Trabajo sin sustentación tiene como nota final 0.
 * Tenga en cuenta, que cada media hora de retraso en la entrega penalizará con un 0.5 de la respectiva nota.
