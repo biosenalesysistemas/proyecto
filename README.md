@@ -62,5 +62,5 @@ Entregar un informe por cada fase que contenga mínimo la siguiente información
 
    * Fase 1 (10%): 13 de Marzo
    * Fase 2 (11%): 19 de Abril
-   * Fase 3 (12%): 04 de Mayo
+   * Fase 3 (12%): 10 de Mayo
    * Fase 4 (12%): 30 de Mayo 
