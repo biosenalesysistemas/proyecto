@@ -29,7 +29,7 @@ d.	(10%) Analizar y discutir los resultados del punto anterior de manera que par
 
 **Todos los puntos realizados a continuación son con las características definidas del punto d**
 
-e.	(30%) Código y análisis de resultados, donde se discutan por los menos tres diferentes arquitecturas de red (20%) y las matrices de confusión obtenidas (10%), de una red neuronal que permita la clasificación de los diferentes gestos (Etiquetas con los datos del primer proyecto). 
+e.	(30%) Código y análisis de resultados, donde se discutan por los menos tres diferentes arquitecturas de red (10%) y las matrices de confusión obtenidas (10%), validación cruzada (10%), de una red neuronal que permita la clasificación de los diferentes gestos (Etiquetas con los datos del primer proyecto). 
 
 f.	(25%) Consultar (10%), justificar el uso (5%) e **implementar** otros modelos de machine learning que permitan la clasificación de gestos (10%)
 
