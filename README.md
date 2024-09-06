@@ -12,17 +12,12 @@ John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga <
 
 # Proyecto Bioseñales y Sistemas
 
-En este proyecto se analizarán señales de  Electromiografía (EMG). Estas señales hacen parte de un dataset que contiene electromiografía de sujetos que realizaban series de gestos estáticos con las manos. Se adquirieron las señales de 36 participantes, estos realizarón dos series, cada una de las cuales consta de seis (siete) gestos básicos. Cada gesto se realizó durante 3 segundos con una pausa de 3 segundos entre gestos.
-
 El proyecto se dividirá en 4 etapas que corresponden a cada una de las unidades de la materia:
+
 1. Análisis exploratorio de las datos y aplicación de conceptos básicos sobres señales fisiológicas
 2. Manipulación de señales en el dominio del tiempo y la frecuencia
 3. Procesamiento de las señales
 4. Aplicación de Inteligencia artificial
-
-### EMG 
-
-La base de datos se encuentra en un formato .zip en el repositorio. De igual modo, si quiere consultar la base de datos completa lo puede obtener en este enlace: https://www.kaggle.com/datasets/sojanprajapati/emg-signal-for-gesture-recognition
 
 ## Etapas del proyecto
 Este proyecto se analizará en cuatro fases:
@@ -37,12 +32,11 @@ Este proyecto se analizará en cuatro fases:
 
     -  Técnicas de estimación espectral en EMG
 
-3. **Procesamiento de las señales EMG**
+3. **Procesamiento de las señales**
 
     - Filtros lineales 
-    - Transformada de Hilbert
 
-4. **Aplicación de Inteligencia artificial a datos de EMG**
+4. **Aplicación de Inteligencia artificial a datos **
 
     - Clasificación de los gestos 
 
