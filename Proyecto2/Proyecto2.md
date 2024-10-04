@@ -50,11 +50,11 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 
 **De estos registros los análisis para el presente proyecto deben hacerse en la derivación II** 
 
-3. Programar las fórmulas 1 al 4 que se encuentran en el artículo **(15%)**. Consultar que significado y utilidad del biespectro **(5%)** 
+3. Programar las fórmulas 1 al 4 que se encuentran en el artículo **(15%)**. Consultar que significado y utilidad del biespectro (Realice la gráfica) **(5%)** 
 
 - https://arxiv.org/pdf/1809.08451
 
-4. Para cada señal extraer la frecuencia que contiene la máxima potencia **(15%)** 
+4. Para cada señal extraer la frecuencia que contiene la máxima potencia y Gráfiquela **(15%)** 
 
 5. Para cada señal sumar el número de frecuencias que son significativas para bicoherencia (cuales tienen un valor superior a ![image](https://github.com/user-attachments/assets/636a4170-c3f7-4789-9100-f2a0ce0033c3)
  **(20%)** 
@@ -69,7 +69,7 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 
 
 
-7. Para las señales de análisis del punto 2 aplicar las rutinas del punto 3 al 5 y hacer un informe que permita evidenciar las diferencias entre las señales SB y AFIB utilizando las herramientas de estadística descriptiva **(5%)** 
+7. Para las señales de análisis del punto 2 aplicar las rutinas del punto 3 al 5 y hacer un informe que permita **evidenciar** las diferencias entre las señales SB y AFIB utilizando las herramientas de estadística descriptiva **(5%)** 
 
 8. Indicar si hay o no diferencias estadísticas entre las características espectrales del punto 4 y 5 para las dos poblaciones de estudio **(5%)** 
 
