@@ -34,7 +34,7 @@ Un ECG convencional consta de 12 derivaciones, que proporcionan una visión comp
 
 https://www.nature.com/articles/s41598-020-59821-7 
 
-Explicar a fondo la metodología de reducción de ruido usada **(15%)** 
+Consultar y explicar los dos métodos de reducción de ruido usados en el artículo: Robust LOESS y Non Local Means (10%), mostrar cómo se podrían implementar en Python (5%) 
 
 2. Descargar los datos ECGData.zip de:  
 
@@ -47,7 +47,7 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 
 ![image](https://github.com/user-attachments/assets/e151d246-6768-4ddb-933a-782f1d905b27)
 
-3. Consultar que otros tipos de señales wavelet se pueden usar para el análisis de señales ECG y adaptar el código del filtro wavelet de acuerdo a la consulta **(15%)** 
+3. Consultar que otros tipos de señales wavelet se pueden usar para el análisis de señales ECG y adaptar el código del filtro wavelet que se entrega en el curso de acuerdo a la consulta **(10%)** 
 
 4. Escoger 10 señales al azar y aplicar un flujo de procesamiento que conste de:   
  
@@ -70,15 +70,15 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 
 Describir los resultados obtenidos y decidir si el resto del procesamiento se hace con el flujo 1, el flujo 2 o el flujo 3 **(20%)** 
 
-Con el flujo seleccionado procesar todas las señales de la base de datos (ECGData.zip derivación II) que fueron seleccionadas.  
+Con el flujo seleccionado procesar las señales de la base de datos ECGData.zip derivación II. En este punto deberíamos estar en el mismo punto donde partimos en el proyecto 2, con señales filtradas. 
 
-Aplicar el procesamiento de normalización usado en el proyecto 2 
+A las señales filtradas con el flujo seleccionado aplicar el procesamiento de normalización usado en el proyecto 2.
 
 5. Para cada señal extraer la frecuencia que contiene la máxima potencia usando Welch **(15%)** 
 
 6. Crear una rutina que aplique sobre todos los archivos de la base de datos las rutina 3 al 5 y almacene los resultados en un dataframe donde se pueda registro, tipo de patología y el frecuencia de máxima potencia (fMP):
 
-7.Comparar los resultados de fMP del proyecto 3 con los del proyecto 2 usando estadística descriptiva: gráficos y pruebas de hipótesis **(20%)** 
+7.Comparar los resultados de fMP del proyecto 3 con los del proyecto 2 usando estadística descriptiva: gráficos y pruebas de hipótesis (15%) Discuta si hay más diferencias entre los tipos de señales con el flujo de procesamiento propuesto respecto al que se trabajó en el proyecto 2. 
 
 8. Hacer un informe con todos los puntos anteriores **(15%)** 
 
