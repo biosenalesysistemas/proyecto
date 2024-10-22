@@ -34,7 +34,7 @@ Un ECG convencional consta de 12 derivaciones, que proporcionan una visión comp
 
 https://www.nature.com/articles/s41598-020-59821-7 
 
-Explicar a fondo la metodología de reducción de ruido usada (15%) 
+Explicar a fondo la metodología de reducción de ruido usada **(15%)** 
 
 2. Descargar los datos ECGData.zip de:  
 
@@ -42,34 +42,46 @@ https://figshare.com/collections/ChapmanECG/4560497/1
 
  
 De la base de datos extraer los registros que correspondan a bradicardia sinusal (SB Sinus Bradycardia) y fibrilación auricular (AFIB Atrial Fibrillation). Esta información está en el archivo Diagnostics.xlsx 
+
 **De estos registros los análisis para el presente proyecto deben hacerse en la derivación II**
+
 ![image](https://github.com/user-attachments/assets/e151d246-6768-4ddb-933a-782f1d905b27)
 
-
-3. Consultar que otros tipos de señales wavelet se pueden usar para el análisis de señales ECG y adaptar el código del filtro wavelet de acuerdo a la consulta (15%) 
+3. Consultar que otros tipos de señales wavelet se pueden usar para el análisis de señales ECG y adaptar el código del filtro wavelet de acuerdo a la consulta **(15%)** 
 
 4. Escoger 10 señales al azar y aplicar un flujo de procesamiento que conste de:   
-
  
-**Flujo 1** 
+### **Flujo 1** 
 
 1. Filtro pasa-altas usando filtro IIR a 0.5 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 2. Filtro wavelet modificado del punto 3 
 3. Filtrado pasabajas 50 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 
-**Flujo 2** 
+### **Flujo 2** 
 
 1. Detrend 
 2. Filtro wavelet modificado del punto 3 
 3. Filtrado pasabajas 50 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 
-**Flujo 3** 
+### **Flujo 3** 
 
 1. Filtro pasa-altas usando filtro IIR a 0.5 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 2. Filtrado pasabajas 50 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 
-Cada flujo de procesamiento deberá encontrar una estrategia para determinar cual permite eliminar solo los componentes artefactuales sin perder mucha información de interés.
+Describir los resultados obtenidos y decidir si el resto del procesamiento se hace con el flujo 1, el flujo 2 o el flujo 3 **(20%)** 
 
-5. Realice un informe con las discusiones y conclusiones del trabajo. 
+Con el flujo seleccionado procesar todas las señales de la base de datos (ECGData.zip derivación II) que fueron seleccionadas.  
+
+Aplicar el procesamiento de normalización usado en el proyecto 2 
+
+5. Para cada señal extraer la frecuencia que contiene la máxima potencia usando Welch **(15%)** 
+
+6. Crear una rutina que aplique sobre todos los archivos de la base de datos las rutina 3 al 5 y almacene los resultados en un dataframe donde se pueda registro, tipo de patología y el frecuencia de máxima potencia (fMP):
+
+7.Comparar los resultados de fMP del proyecto 3 con los del proyecto 2 usando estadística descriptiva: gráficos y pruebas de hipótesis **(20%)** 
+
+8. Hacer un informe con todos los puntos anteriores **(15%)** 
+
+**Trabajo sin sustentar no se califica**
  
  
