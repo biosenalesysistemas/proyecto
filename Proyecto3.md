@@ -68,5 +68,8 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 1. Filtro pasa-altas usando filtro IIR a 0.5 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 2. Filtrado pasabajas 50 Hz. Justificar la elección de parámetros y si se usa FIR o IIR 
 
+Cada flujo de procesamiento deberá encontrar una estrategia para determinar cual permite eliminar solo los componentes artefactuales sin perder mucha información de interés.
+
+5. Realice un informe con las discusiones y conclusiones del trabajo. 
  
  
