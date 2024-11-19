@@ -1,3 +1,15 @@
+<p><img alt="udeA logo" height="150px" src="https://github.com/freddyduitama/images/blob/master/logo.png?raw=true" align="left" hspace="50px" vspace="0px" style="width:107px;height:152px;"></p>
+<h1><font color='0B5345'> <center>
+Proyecto 4: Clasificación de señales ECG </center></font></h1>
+<h2><font color='0B5345'> <center>
+Proyecto 2024-02 </center></font></h2>
+<h3><font color='0B5345'> <center>
+John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga </center></font></h3>
+<h3><font color='0B5345'> <center>
+2024 </center></font></h3>
+<font  face="Courier New" size="3">
+<p1><center> </center></p1>
+ 
 ## Objetivos: 
 
 Extraer características de señales que permitan construir sistemas de clasificación automática 
@@ -36,7 +48,8 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 
 5. Con las características que extrae el neurokit y las discutidas en el punto 1 generar un conjunto de características para el presente trabajo. Incluir la característica de frecuencia de potencia máxima del Proyecto 3 (10%). No incluir más de 15 características ni menos de 5, justificar la selección (5%). 
 
-6. Crear una rutina que aplique sobre todos los archivos de la base de datos la rutina 5 y almacene los resultados en un dataframe: 
+6. Crear una rutina que aplique sobre todos los archivos de la base de datos la rutina 5 y almacene los resultados en un dataframe:
+7. 
 ![image](https://github.com/user-attachments/assets/586f9cf3-65db-4a68-8828-dfca328e46e6)
 
 Todos los puntos realizados a continuación son con las características definidas 
