@@ -49,7 +49,7 @@ De la base de datos extraer los registros que correspondan a bradicardia sinusal
 5. Con las características que extrae el neurokit y las discutidas en el punto 1 generar un conjunto de características para el presente trabajo. Incluir la característica de frecuencia de potencia máxima del Proyecto 3 (10%). No incluir más de 15 características ni menos de 5, justificar la selección (5%). 
 
 6. Crear una rutina que aplique sobre todos los archivos de la base de datos la rutina 5 y almacene los resultados en un dataframe:
-7. 
+
 ![image](https://github.com/user-attachments/assets/586f9cf3-65db-4a68-8828-dfca328e46e6)
 
 Todos los puntos realizados a continuación son con las características definidas 
