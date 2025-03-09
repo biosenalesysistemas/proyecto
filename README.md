@@ -2,7 +2,7 @@
 <h1><font color='0B5345'> <center>
 Bioseñales y Sistemas - Universidad de Antioquia</center></font></h1>
 <h2><font color='0B5345'> <center>
-Proyecto 2024</center></font></h2>
+Proyecto 2025-1</center></font></h2>
 <h3><font color='0B5345'> <center>
 John Fredy Ochoa Gómez - Juliana Moreno Rada- Luisa María Zapata Saldarriaga </center></font></h3>
 <h3><font color='0B5345'> <center>
